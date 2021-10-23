@@ -1,6 +1,6 @@
 ## Node API Proxy Server
 
-### [Live Site] (https://node-weather-proxy.herokuapp.com/)
+### [Live Site](https://node-weather-proxy.herokuapp.com/)
 
 - Server used for hiding API keys, rate limiting and caching.
 - openweathermap api (you can change api whatever you like )
