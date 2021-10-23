@@ -15,4 +15,4 @@
 
 # Add public API info
 
-- edit the env values
+- Rename .env.example to .env and edit the values
